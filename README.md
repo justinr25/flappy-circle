@@ -2,7 +2,7 @@
 A responsive web-based "Flappy Bird" clone where the user controls a circle to navigate through oncoming pipes.
 
 ## Demo  
-![Demo of Sudoku Solver](Media/flappy-circle-demo.gif)
+![Demo of Flappy Circle](Media/flappy-circle-demo.gif)
 
 ## Usage  
 1. Visit the [GitHub Pages link](https://justinr25.github.io/flappy-circle/) or open `index.html` in your browser.  
